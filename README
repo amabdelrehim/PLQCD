@@ -1,0 +1,8 @@
+codes implementation of the Lattice QCD Dirac operator with MPI+openMP as well as a version for Intel Xeon Phi
+
+These codes were used for benchmarks.	
+For a description of the some of the results obtained with this code see plqcd.pdf. 
+For a sample test on the Intel MIC see the  Single_MIC_hopping_lat_32_64.png 
+
+Author: A. Abdel-Rehim 2012
+

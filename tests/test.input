@@ -1,0 +1,21 @@
+L0     32
+
+L1     32
+
+L2     32
+
+L3     64
+
+NPROC0 1
+
+NPROC1 1 
+
+NPROC2 1
+
+NPROC3 1
+
+NTHREAD 16
+
+ALIGN  6
+
+

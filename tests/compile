@@ -1,0 +1,1 @@
+mpiicc  -std=gnu99 -fopenmp -O3 -Wall -mmic -g -Wextra  -DMIC -DMIC_SPLIT  -o hopping_split test_hopping_mic_split.c ../lib/start.c ../lib/dirac.c ../lib/utils.c  -I ../include -lm
